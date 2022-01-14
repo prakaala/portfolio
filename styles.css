@@ -102,3 +102,10 @@ span{
     left:45%;
 }
 
+.footer{
+    position: absolute;
+    background-color:black;
+    color:white;
+    
+}
+
