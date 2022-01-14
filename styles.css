@@ -103,9 +103,13 @@ span{
 }
 
 .footer{
-    position: absolute;
+    position: relative;
     background-color:black;
     color:white;
+    width: 100%;
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
     
 }
 
